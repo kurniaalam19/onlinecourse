@@ -1,4 +1,3 @@
-
 <body id="page-top">
 
     <!-- Page Wrapper -->
@@ -22,7 +21,7 @@
             <hr class="sidebar-divider">
 
             <li class="text-center p-20 upgrade-btn">
-              <a href="https://onlinecourse-web.herokuapp.com/"
+              <a href="https://onlinecourse-web.herokuapp.com//"
                   class="btn d-grid btn-danger text-white" target="_blank">
                   Go to Online Course</a>
           </li>
